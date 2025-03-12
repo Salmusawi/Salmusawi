@@ -1,1 +1,2 @@
-First commit from VSCODE testing if it works
+First commit from VSCODE testing if it works (btw this was from a remote codespace)
+This is the 2nd commit (this is from  a local codespace)
